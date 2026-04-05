@@ -14,4 +14,4 @@ I specialize in transforming complex datasets into actionable business intellige
 | Customer Sentiment & Market Insights| Retail | Python, Power BI | 📅 Upcoming |
 
 ---
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/adityatiwarida/) | [GitHub]()
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/adityatiwarida/) | [GitHub](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fgithub.com%2Fadityatiwari011102-web&urlhash=54Y1&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4Akdy7nsRsC1%2Fn7vWuGIdg%3D%3D)
