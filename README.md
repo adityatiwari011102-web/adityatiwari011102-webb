@@ -8,10 +8,10 @@ I specialize in transforming complex datasets into actionable business intellige
 | Project | Domain | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
 | Customer Retention Analysis | Telecom | MS-Excel, MySQL, Python, Power BI | ✅ Completed |
-| Supply Chain & Inventory Optimization | E-Commerce | MS-Excel, Python, Power BI | 🏗 In-Progress |
-| Financial Risk & Fraud Detection | Fintech | SQL, Python | 📅 Upcoming |
+| Supply Chain Intelligence | E-Commerce | MS-Excel, Python, Power BI | 🏗 In-Progress |
+| Financial Risk & Fraud Detection | Fintech | SQL, Python, Power BI | 📅 Upcoming |
 | Healthcare Operational Excellence | Health Systems | Power BI, Excel | 📅 Upcoming |
 | Customer Sentiment & Market Insights| Retail | Python, Power BI | 📅 Upcoming |
 
 ---
-📫 Connect with me: [LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](YOUR_GITHUB_URL)
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/adityatiwarida/) | [GitHub]()
